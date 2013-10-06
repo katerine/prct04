@@ -20,3 +20,4 @@ c.each do |fila|			#por cada fila
    puts fila.join(" ")			#imprime el resultado
 end
 
+//
